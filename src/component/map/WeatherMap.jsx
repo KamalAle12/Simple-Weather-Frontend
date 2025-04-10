@@ -1,6 +1,6 @@
 import React from 'react'
 import {MapContainer, TileLayer, Marker} from 'react-leaflet';
-const  API_KEY = "a9f04aceeb1a56a2052c9a1b6ab418f9";
+const  API_KEY = "YOUR_API_KEY";
 
 const WeatherMap = () => {
   const position = [40.7128, -74.0060];
