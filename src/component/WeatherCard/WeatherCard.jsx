@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-const API_KEY = "a9f04aceeb1a56a2052c9a1b6ab418f9";
+const API_KEY = "YOUR_API_KEY";
 
 const WeatherCard = ({lat, lon}) => {
 
